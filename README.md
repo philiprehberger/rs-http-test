@@ -10,7 +10,7 @@ Declarative HTTP API integration testing framework with fluent assertions
 
 ```toml
 [dependencies]
-philiprehberger-http-test = "0.1.1"
+philiprehberger-http-test = "0.1.2"
 ```
 
 ## Usage

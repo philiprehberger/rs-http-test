@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.1.2 (2026-03-20)
+
+- Fix CI workflow to use env var for registry token
+
 ## 0.1.1 (2026-03-20)
 
 - Re-release with registry token configured
