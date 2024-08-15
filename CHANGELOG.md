@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.1.3 (2026-03-22)
+
+- Fix CHANGELOG and CI compliance
+
 ## 0.1.2 (2026-03-20)
 
 - Fix CI workflow to use env var for registry token
@@ -9,8 +13,6 @@
 - Re-release with registry token configured
 
 ## 0.1.0 (2026-03-19)
-
-### Added
 
 - Declarative HTTP request builder with `get()`, `post()`, `put()`, `delete()`, `patch()` constructors
 - Fluent request configuration: headers, query params, JSON body, timeout
