@@ -3,6 +3,7 @@
 [![CI](https://github.com/philiprehberger/rs-http-test/actions/workflows/ci.yml/badge.svg)](https://github.com/philiprehberger/rs-http-test/actions/workflows/ci.yml)
 [![Crates.io](https://img.shields.io/crates/v/philiprehberger-http-test.svg)](https://crates.io/crates/philiprehberger-http-test)
 [![License](https://img.shields.io/github/license/philiprehberger/rs-http-test)](LICENSE)
+[![Sponsor](https://img.shields.io/badge/sponsor-GitHub%20Sponsors-ec6cb9)](https://github.com/sponsors/philiprehberger)
 
 Declarative HTTP API integration testing framework with fluent assertions
 
